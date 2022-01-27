@@ -1,6 +1,6 @@
 
 % Continuous finite element solution u(x; w,s) of the Helmholtz equation in 2D at frequency w and relative 
-% source position s, with first-order non-absorbing boundary conditions and point source.
+% source position s, with first-order absorbing boundary conditions and point source.
 %
 %           Div(Grad(u)) + k^2 * u = f  in computational domain
 %          n x Grad(u) - i * k * u = 0  on boundaries
